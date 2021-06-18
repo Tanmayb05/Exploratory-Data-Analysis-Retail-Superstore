@@ -1,0 +1,6 @@
+1. pandas.unique()
+2. Dataframe.nunique()
+3. Series.value_counts()
+4. 
+5. 
+6. 
